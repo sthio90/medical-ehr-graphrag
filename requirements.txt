@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pandas
+langchain
+langchain-community
+langchain-openai
+neo4j
+openai
+langchain-neo4j
+langchain-ollama
