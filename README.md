@@ -1,10 +1,10 @@
-# Medical GraphRAG
+# MediGRAF: A Hybrid Graph-RAG System for Natural Language Querying of Electronic Health Records
 
 A hybrid Retrieval-Augmented Generation (RAG) system that combines graph database queries with vector similarity search to answer medical questions from Electronic Health Records (EHR) data.
 
 ## Overview
 
-Medical GraphRAG leverages the strengths of both structured graph queries and semantic vector search to provide accurate, context-aware responses to medical queries. The system uses Neo4j for graph storage and vector indexing, combined with OpenAI's language models for natural language understanding and generation.
+MediGRAF leverages the strengths of both structured graph queries and semantic vector search to provide accurate, context-aware responses to medical queries. The system uses Neo4j for graph storage and vector indexing, combined with OpenAI's language models for natural language understanding and generation.
 
 ## Key Features
 
